@@ -1,7 +1,6 @@
 ls
 ls -ltr
 pwd
-who am i
 mkdir newDirectory
 exit
 cp file1 file2
