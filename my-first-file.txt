@@ -4,3 +4,4 @@ pwd
 mkdir newDirectory
 exit
 cp file1 file2
+mv file2 file
