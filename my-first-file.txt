@@ -3,3 +3,4 @@ ls -ltr
 pwd
 who am i
 mkdir newDirectory
+exit
